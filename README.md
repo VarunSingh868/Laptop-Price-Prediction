@@ -25,16 +25,6 @@ users can make informed decisions when purchasing laptops.
 2. Fill in the details of the laptop you want to predict the price for.
 3. Click on the "Predict Price" button to get the predicted price based on the input parameters.
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/yourfeature`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add new feature'`).
-5. Push to the branch (`git push origin feature/yourfeature`).
-6. Create a new Pull Request.
-
 ## Author
 
 Varun Singh
